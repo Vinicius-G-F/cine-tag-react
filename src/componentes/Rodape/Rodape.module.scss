@@ -1,0 +1,13 @@
+@import '../../styles/variaveis';
+
+.rodape {
+    display: flex;
+    justify-content: center;
+    background-color: $preto;
+
+    h2 {
+        font-weight: 400;
+        font-size: 18px;
+        color: $branco;
+    }
+}
